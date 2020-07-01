@@ -1,1 +1,1 @@
-Sitemap: http://www.robbiepalmer.com/sitemap.xml
+Sitemap: http://www.robbiepalmer.com/index.html/sitemap.xml
