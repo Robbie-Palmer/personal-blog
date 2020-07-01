@@ -1,1 +1,1 @@
-Sitemap: http://www.robbiepalmer.com/sitemap.xml
+Sitemap: https://robbie-palmer.github.io/personal-blog/sitemap.xml
