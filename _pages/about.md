@@ -21,22 +21,31 @@ I plan to sporadically write about my interests, which include:
 Many of these tie in with my current career path, others with my personal life,
 and the rest are included out of pure curiosity.
 
+## Career - Applying Machine Learning Within Healthcare
+
 The recent advances in machine learning can have a huge impact on drug discovery, cancer diagnostics and research.
 As with all technological leaps forward, it requires a huge transition from the previous way of working.
-I've spent the past few years working on digital and computational pathology,
+
+I've spent the past few years working on **digital and computational pathology**,
 and hope to help make that transition happen as fast and as effectively as possible.
+
 My main focus is on applying computer vision techniques to images of digitised biopsies.
 This can be used to automate tedious tasks to free up valuable time of clinicians and researchers;
-but what excites me even more is the insights that are not possible without automation.
+but what will be really transformative are the new insights that are **not possible without automation**.
+
+## Finance
 
 My interest in personal finance has came from planning to buy a house and changing my mind
-thanks to discovering the Financial Independence community (or FIRE - Financial Independence Retire Early).
+thanks to discovering the Financial Independence community or [FIRE movement](https://en.wikipedia.org/wiki/FIRE_movement).
 
-An interest in politics, led to an interest in economics, which led to an interest in philosophy,
-and how to think, which led to Epistemology (knowledge about knowledge).
-These are subjects I find it fun to think about in a meta way.
-They're not my bread and butter so I have limited knowledge about them, but hope exploring them,
-and writing about them can refine my thoughts!
+## Nerdisms
+
+An interest in politics, led to an interest in economics, which led to an interest in philosophy.
+Philosphy spiked my interest in how to think and progress which led to Epistemology (knowledge about knowledge).
+These are super-meta subjects I find it fun to think about.
+I have limited knowledge about them, but I hope exploring them and writing about them can refine my thoughts.
+
+## Contact Me
 
 If you have similar interests, want to chat or give feedback, you can leave a comment on the relevant post,
-or DM me on Twitter.
+or [DM me on Twitter](https://twitter.com/robjpalmer).
