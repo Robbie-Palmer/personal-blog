@@ -83,11 +83,11 @@ No one points out that it is the lack of *general* savings and investments
 
 There is nothing specific about houses.
 
-*Placing a deposit on a house is **an alternative** to investing that deposit.
+*Placing a deposit on a house is **an alternative** to investing that deposit.*
 
-Placing a deposit on a house is **the same** as investing that deposit.
+*Placing a deposit on a house is **the same** as investing that deposit.*
 
-Placing a deposit on a house is **less effective, riskier, harder and restricts
+*Placing a deposit on a house is **less effective, riskier, harder and restricts
 your life more** than investing that deposit.*
 
 
@@ -245,7 +245,10 @@ or lend to companies and governments via bonds.
 Then you can invest in a [real estate index fund](https://investor.vanguard.com/mutual-funds/profile/overview/vgslx)!
 
 You'll still be invested in property but won't have the huge risk of owning a 
-single house. (Just as you should not own stocks in a single company)
+single house.
+
+Just as it's highly risky to invest only in a single company, it is highly risky
+to only invest in a single house.
 
 ### Liquidity
 
@@ -296,11 +299,12 @@ House prices don't take into account additional costs required for maintenance.
 Stock prices don't take into account additional returns on investment through
 dividends.
 
-This is when you take your share of the profits from the company.
+You receive dividends when the company you have invested in gives you your
+share of their profits.
 
 ### But what about recessions?
 
-The worst stock market crash started The Great Depression.
+The Great Depression started with the worst stock market crash.
 
 If you were *extraordinarily* unlucky and invested *only* at the *peak* before
 the crash, your investment would have [recovered in 7.5 years](https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.).
@@ -316,7 +320,7 @@ House prices are also affected by recessions.
 
 The huge decrease in house prices caused the Great Recession of 2007/2008.
 
-People overvalued houses just as they often over value companies, and the bubble
+People over-valued houses just as they often over value companies, and the bubble
 burst when they realised the prices had got out of hand.
 
 
@@ -343,7 +347,7 @@ For lifestyle reasons:
   (a problem I'm currently facing)
 - You have found a house that is undervalued to such a degree it makes up for
   the financial downsides and lifestyle restrictions
-  (you must know something no one else does or be *incredibly* lucky)
+  (you must know something no one else does or be incredibly lucky)
 - You want a pet, cannot find somewhere to rent that allows pets and are willing
   to make huge sacrifices to have one (shout out to my girlfriend)
 
@@ -377,7 +381,7 @@ Reading about this led me to discover other interesting figures in the world of
 personal finance such as
 [Mr Money Moustache](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/).
 
-They leading figures in this community have interesting ideas that challenge the norm.
+The leading figures in this community have interesting ideas that challenge the norm.
 
 
 If you believe buying a house will be a more effective investment, and you're
