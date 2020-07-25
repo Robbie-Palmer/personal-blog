@@ -1,11 +1,332 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.robbiepalmer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.robbiepalmer.com/" rel="alternate" type="text/html" /><updated>2020-07-01T11:27:39-05:00</updated><id>http://www.robbiepalmer.com/feed.xml</id><title type="html">robbiepalmer</title><subtitle>Thoughts on personal finance, data science, bioinformatics, software engineering...</subtitle><entry><title type="html">An Example Markdown Post</title><link href="http://www.robbiepalmer.com/markdown/2020/01/14/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2020-01-14T00:00:00-06:00</published><updated>2020-01-14T00:00:00-06:00</updated><id>http://www.robbiepalmer.com/markdown/2020/01/14/test-markdown-post</id><content type="html" xml:base="http://www.robbiepalmer.com/markdown/2020/01/14/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.robbiepalmer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.robbiepalmer.com/" rel="alternate" type="text/html" /><updated>2020-07-25T10:26:34-05:00</updated><id>http://www.robbiepalmer.com/feed.xml</id><title type="html">robbiepalmer</title><subtitle>Thoughts on personal finance, data science, bioinformatics, software engineering...</subtitle><entry><title type="html">Why You Shouldn’t Buy a House</title><link href="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/01/why-you-should-not-buy-a-house.html" rel="alternate" type="text/html" title="Why You Shouldn't Buy a House" /><published>2020-07-01T00:00:00-05:00</published><updated>2020-07-01T00:00:00-05:00</updated><id>http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/01/why-you-should-not-buy-a-house</id><content type="html" xml:base="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/01/why-you-should-not-buy-a-house.html">&lt;p&gt;Buying a house is the worst decision I nearly made.&lt;/p&gt;
 
-&lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
+&lt;p&gt;I nearly did it because it is what people expect me to do.
+It seems sensible too.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;You’re paying for your landlord’s retirement.
+Being a landlord is profitable.
+They’re obviously profitable at your expense.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Your parents and grandparents tell you their homes are worth 5-10x what they 
+paid. They’re horrified by your rent.
+Their mortgage repayments are a fraction of this.&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;filename&lt;/code&gt; is whatever file name you choose, to remind yourself what this post is about. &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; is the file extension for markdown files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of this is true&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “&lt;em&gt;level 1 heading&lt;/em&gt;” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line &lt;code class=&quot;highlighter-rouge&quot;&gt;## File names&lt;/code&gt; above.&lt;/p&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry></feed>
+&lt;p&gt;If you buy a house you &lt;em&gt;will&lt;/em&gt; save &lt;em&gt;hundreds of thousands&lt;/em&gt; of pounds over
+your lifetime, &lt;strong&gt;versus doing nothing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You don’t have to do nothing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re considering buying a house for financial reasons,
+there are alternatives that are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;More effective AND&lt;/li&gt;
+  &lt;li&gt;Less risky AND&lt;/li&gt;
+  &lt;li&gt;Easier (including more accessible)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I knew there were lifestyle reasons to not buy a house,
+but I thought the financial gain was worth the sacrifice.
+I was not aware of these alternatives.&lt;/p&gt;
+
+&lt;p&gt;Researching the alternatives changed my perspective of housingand changed my
+mind.&lt;/p&gt;
+
+&lt;p&gt;It might change yours too.&lt;/p&gt;
+
+&lt;h2 id=&quot;housing-folklore&quot;&gt;Housing Folklore&lt;/h2&gt;
+
+&lt;p&gt;I missed that I was looking for an investment.
+I did not understand that houses are like any other.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot of folk-lore and spin surrounding housing in the UK and USA.&lt;/p&gt;
+
+&lt;p&gt;People commonly say rent is “throwing away” your money, which they don’t say
+about other spending.&lt;/p&gt;
+
+&lt;p&gt;People talk about about climbing the “property ladder”.
+Politicians talk about generations who get “left behind” because they couldn’t
+get on that first rung.&lt;/p&gt;
+
+&lt;p&gt;No one talks about other types of investment “ladders”.
+No one points out that it is the lack of &lt;em&gt;general&lt;/em&gt; savings and investments
+(and other systematic factors) that holds back social mobility.
+There is nothing specific about houses.&lt;/p&gt;
+
+&lt;p&gt;Placing a deposit on a house is an alternative to investing that deposit.&lt;/p&gt;
+
+&lt;p&gt;Placing a deposit on a house is &lt;em&gt;the same as&lt;/em&gt; investing that deposit.&lt;/p&gt;
+
+&lt;p&gt;Placing a deposit on a house is less effective, riskier, harder and restricts
+your life more than investing that deposit.&lt;/p&gt;
+
+&lt;p&gt;It isn’t only home-owners and landlords that grow their wealth.&lt;/p&gt;
+
+&lt;p&gt;I think the reason we miss this is that buying a house feels familiar and
+comfortable.
+If I bought a house then wanted to move but keep my investment;
+becoming a landlord would also feel familiar and comfortable.
+Cash and houses. They’re part of normal life.&lt;/p&gt;
+
+&lt;p&gt;I didn’t understand that &lt;strong&gt;holding cash is an investment&lt;/strong&gt; (a terrible one at 
+that).
+I knew nothing of bonds or REITs.
+Stocks are what crazy gung-ho risk takers gambled on with their millions right?
+To me, these were intimidating ideas, not accessible to someone like me.&lt;/p&gt;
+
+&lt;p&gt;None of my friends or family know much about investing.
+Their only investments are their houses and their pensions.
+Pensions are black box magic.
+Many view them as a special savings account the government tops up.
+Houses are long term homes.
+They happen to have a side effect of building equity.&lt;/p&gt;
+
+&lt;p&gt;I didn’t know that &lt;strong&gt;we all&lt;/strong&gt;* own stocks, bonds and REITs 
+(parts of houses/buildings) through our pensions already.&lt;/p&gt;
+
+&lt;p&gt;When you are younger, your pension will mostly be a diversified set of stocks.
+These are the best asset for growing your wealth.&lt;/p&gt;
+
+&lt;p&gt;As you get older your pension shifts to bonds.
+These are less volatile than stocks.
+They are better at maintaining any existing wealth.
+This is important as you approach retirement having added money throughout your
+career.
+Finally your pension shifts to cash so you can withdraw and spend it.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Index Funds, we can all benefit from this process without knowing 
+much anything about it.
+A normal person with very limited financial knowledge can put their money in an
+index fund and study after study shows they’ll beat Wall Street traders over
+a 10+ year period.&lt;/p&gt;
+
+&lt;p&gt;I want to show how buying assets in an index fund is
+&lt;em&gt;more effective, less risky &lt;strong&gt;AND&lt;/strong&gt; easier&lt;/em&gt; than buying a house.&lt;/p&gt;
+
+&lt;h2 id=&quot;easier&quot;&gt;Easier&lt;/h2&gt;
+
+&lt;p&gt;Investing in an index fund (once you know what they are and how to choose one)
+is as easy as opening a savings account.&lt;/p&gt;
+
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Register with &lt;a href=&quot;https://www.vanguardinvestor.co.uk/&quot;&gt;Vanguard&lt;/a&gt; online&lt;/li&gt;
+  &lt;li&gt;Transfer money into your account (current minimum lump sum investment is £500)&lt;/li&gt;
+  &lt;li&gt;Invest it into a
+&lt;a href=&quot;https://www.vanguardinvestor.co.uk/what-we-offer/life-strategy-products&quot;&gt;LifeStrategy fund&lt;/a&gt;
+choosing the balance between stocks and bonds based on how long you will keep your money invested&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Investing in a house is famously one of the most stressful and difficult things
+you will ever do.
+(&lt;a href=&quot;https://www.vivopropertybuyers.co.uk/vivo-property-buyers-uk-survey/&quot;&gt;Ranked more stressful than having a baby&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;You need to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Save a large sum of cash (orders of magnitudes larger than £500)&lt;/li&gt;
+  &lt;li&gt;Get pre-approved for a mortgage via a mortgage broker&lt;/li&gt;
+  &lt;li&gt;Optionally find a real estate agent&lt;/li&gt;
+  &lt;li&gt;House hunt&lt;/li&gt;
+  &lt;li&gt;Submit an offer &amp;amp; haggle / compete with other bidders&lt;/li&gt;
+  &lt;li&gt;Organise professional home inspection and appraisal&lt;/li&gt;
+  &lt;li&gt;Final paperwork, pay closing costs, property tax, transaction fees, get insurance…&lt;/li&gt;
+  &lt;li&gt;Move house&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This process takes months and can be scuppered by:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Struggling to find a suitable house&lt;/li&gt;
+  &lt;li&gt;Mortgage application rejection&lt;/li&gt;
+  &lt;li&gt;Losing out on a bid (including getting
+&lt;a href=&quot;https://dictionary.cambridge.org/dictionary/english/gazump&quot;&gt;Gazumped&lt;/a&gt; after your offer was accepted)&lt;/li&gt;
+  &lt;li&gt;Bad results from a professional home inspection&lt;/li&gt;
+  &lt;li&gt;Sellers pulling out of the deal&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vivopropertybuyers.co.uk/reasons-to-sell-to-vivo-broken-property-chains/&quot;&gt;Broken property chain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Down-valuation by lender&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Common reasons for mortgage application rejection:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You recently changed jobs&lt;/li&gt;
+  &lt;li&gt;You’re not registered to vote&lt;/li&gt;
+  &lt;li&gt;Administrative errors on your credit file&lt;/li&gt;
+  &lt;li&gt;You don’t match the lenders target demographic&lt;/li&gt;
+  &lt;li&gt;Your income is too low (counted after tax and deductions even if you could reduce deductions such as your pension contribution)&lt;/li&gt;
+  &lt;li&gt;You’re self employed or a contractor&lt;/li&gt;
+  &lt;li&gt;You recently applied for a credit card&lt;/li&gt;
+  &lt;li&gt;You took a payday loan in the last 6 years&lt;/li&gt;
+  &lt;li&gt;Your deposit is too small&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;less-risky&quot;&gt;Less Risky&lt;/h2&gt;
+
+&lt;p&gt;Investing in an index fund is less risky than investing in a house.&lt;/p&gt;
+
+&lt;h3 id=&quot;diversification&quot;&gt;Diversification&lt;/h3&gt;
+
+&lt;p&gt;Diversification is the key to managing risk.&lt;/p&gt;
+
+&lt;p&gt;“Don’t Put All Your Eggs in One Basket” - A wise grandmother&lt;/p&gt;
+
+&lt;p&gt;A house could not be less diverse.
+It is in a single country, county/state, city/town, neighbourhood, street…
+The value of your house will be affected by anything from global events to
+something a single neighbour does.&lt;/p&gt;
+
+&lt;p&gt;When you buy a house you’re also buying a single type of house
+(apartment, semi-detached, detached), with a certain style
+(open-plan, large windows…).
+The prices for these will fluctuate based on fashion.&lt;/p&gt;
+
+&lt;p&gt;You can choose index funds that spread your investment across all countries,
+all sectors of the economy, all types of businesses and lenders.
+You cannot be any more diversified than that.&lt;/p&gt;
+
+&lt;p&gt;If you truly believe real estate is for you.
+If you don’t want to invest in public companies via stocks,
+or lend to companies and governments via bonds.
+Then you can invest in a &lt;a href=&quot;https://investor.vanguard.com/mutual-funds/profile/overview/vgslx&quot;&gt;real estate index fund&lt;/a&gt;!
+You’ll still be invested in property but won’t have the huge risk of owning a 
+single house.&lt;/p&gt;
+
+&lt;h3 id=&quot;liquidity&quot;&gt;Liquidity&lt;/h3&gt;
+
+&lt;p&gt;Saying an investment is liquid or illiquid is a fancy way of saying it’s easy
+or hard to turn it into cash.&lt;/p&gt;
+
+&lt;p&gt;You need liquidity to deal with unexpected emergencies.&lt;/p&gt;
+
+&lt;p&gt;You never know when something bad will happen that requires a lot of cash.
+You may be out of a job for a long time.
+You may suddenly need to support a dependent.
+All your belongings may spontaneously combust and need replaced.&lt;/p&gt;
+
+&lt;p&gt;A house is incredibly illiquid.
+You cannot turn the money you invested into your house into cash as needed.
+To access this money as cash you have to sell it.
+This takes months and involves a massive life upheaval.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-effective&quot;&gt;More Effective&lt;/h2&gt;
+
+&lt;p&gt;The stock market has historically grown at a higher rate than house prices.&lt;/p&gt;
+
+&lt;p&gt;The trick to take advantage of this is to set up a standing order to invest 
+regularly and ignore scare-mongering financial news stories.
+Leave it alone, forget about it, feel no stress and you’re set to go.&lt;/p&gt;
+
+&lt;p&gt;Sustaining the returns from a house requires lots of effort and stress.
+To simply stop your house from decreasing in value you must carry out repairs, 
+maintenance, redecoration and general home improvements.
+This additional investment means that house prices do not reflect the whole
+story, and the return on investment for home ownership is lower than house
+prices suggest.&lt;/p&gt;
+
+&lt;p&gt;House prices don’t take into account additional costs required for maintenance.
+Stock prices don’t take into account additional returns on investment through
+dividends, when the company shares with you a percentage of their profits.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-about-recessions&quot;&gt;But what about recessions?&lt;/h3&gt;
+
+&lt;p&gt;The worst crash we have had was The Great Depression.
+If you were &lt;em&gt;extraordinarily&lt;/em&gt; unlucky and invested &lt;em&gt;only&lt;/em&gt; at the &lt;em&gt;peak&lt;/em&gt; before
+the crash, your investment would have &lt;a href=&quot;https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.&quot;&gt;recovered in 7.5 years&lt;/a&gt;.
+If your luck was even slightly better, investing before and after the peak
+(especially during the trough), you would have your money back &lt;em&gt;much much&lt;/em&gt;
+quicker.
+That was the worst stock market crash we have ever had.&lt;/p&gt;
+
+&lt;p&gt;House prices are also affected by recessions.
+The huge decrease in house prices caused the Great Recession of 2007/2008.
+People overvalued houses just as they often over value companies, and the bubble
+burst when they realised the prices had got out of hand.&lt;/p&gt;
+
+&lt;p&gt;If you’re willing to keep your money invested in a house for a long time,
+then you should be willing to do the same with stocks to ride out these bumps.&lt;/p&gt;
+
+&lt;h2 id=&quot;lifestyle&quot;&gt;Lifestyle&lt;/h2&gt;
+
+&lt;p&gt;So buying a house is one of the most stressful things you can do, it is 
+ridiculously difficult; it is a risky investment; and it performs worse than
+alternatives.&lt;/p&gt;
+
+&lt;p&gt;So why might you buy a house?&lt;/p&gt;
+
+&lt;p&gt;For lifestyle reasons:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You enjoy DIY, and your landlord prevents you from getting your hands dirty 
+on home projects (it is possible to find landlords who will allow this)&lt;/li&gt;
+  &lt;li&gt;You want to live in the same location for a very long period of time,
+setting down roots, being part of the community,
+building a sentimental attachment to your home 
+(still possible while renting, but there is a risk the landlord will evict you)&lt;/li&gt;
+  &lt;li&gt;You want to live in a specific location / in a specific style of house and 
+cannot find something that meets this criteria on the rental market
+(a problem I’m currently facing)&lt;/li&gt;
+  &lt;li&gt;You have found a house that is undervalued to such a degree it makes up for
+the financial downsides and lifestyle restrictions
+(you must know something no one else does or be &lt;em&gt;incredibly&lt;/em&gt; lucky)&lt;/li&gt;
+  &lt;li&gt;You want a pet, cannot find somewhere to rent that allows pets and are willing
+to make huge sacrifices to have one (shout out to my girlfriend)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Buying a house does not make sense if:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You don’t want to maintain a house&lt;/li&gt;
+  &lt;li&gt;You want the flexibility to move locations, such as to other 
+towns/cities/countries (or away from bad neighbourhoods)&lt;/li&gt;
+  &lt;li&gt;You want to adjust the size of your house as needed&lt;/li&gt;
+  &lt;li&gt;You want to get upgrades to appliances and decor with limited disruption
+(assuming moving to a newly refurbished house is less disruption than 
+refurbishing one you live in)&lt;/li&gt;
+  &lt;li&gt;You want to (relatively) easily build wealth&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+
+&lt;p&gt;The first time I questioned my decision to buy a house was when I read
+&lt;a href=&quot;https://jlcollinsnh.com/2013/05/29/why-your-house-is-a-terrible-investment/&quot;&gt;Why your house is a terrible investment&lt;/a&gt;
+by JL Collins.
+That article also sparked my interest in learning about investments.
+The same author has written a &lt;a href=&quot;https://jlcollinsnh.com/stock-series/&quot;&gt;Stock Series&lt;/a&gt;
+of articles, discussing investments (primarily stocks but also bonds and REITs)
+which was so popular he used it as a basis for his book
+&lt;a href=&quot;https://www.amazon.com/gp/product/1533667926/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1533667926&amp;amp;linkCode=as2&amp;amp;tag=jlcollinsnh-20&amp;amp;linkId=1b236a42ef2205f07c4e83e9a984bd17&quot;&gt;The Simple Path to Wealth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;JL Collins is popular in the Financial Independence Retire Early (FIRE) movement.
+Reading about this led me to discover other interesting figures in the world of
+personal finance such as
+&lt;a href=&quot;https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/&quot;&gt;Mr Money Moustache&lt;/a&gt;.
+They have interesting ideas that challenge the norm.&lt;/p&gt;
+
+&lt;p&gt;If you believe buying a house will be a more effective investment, and you’re
+not put off by the difficulty, the risk and the lifestyle impacts,
+you may still wish to run the numbers.
+&lt;a href=&quot;https://affordanything.com/is-renting-better-than-buying-should-i-rent-or-buy/&quot;&gt;Renting Is Throwing Money Away … Right?&lt;/a&gt;
+runs through the complicated process of modelling your expected returns vs the
+alternatives.
+The conclusion is as with everything, &lt;em&gt;it depends&lt;/em&gt;.
+Namely on: price to rent ratio, time invested, assumptions about inflation,
+expected costs, how fast rents increase etc. etc.
+JL Collins also has a &lt;a href=&quot;https://jlcollinsnh.com/2012/02/23/rent-v-owning-your-home-opportunity-cost-and-running-some-numbers/&quot;&gt;run the numbers&lt;/a&gt;
+article to give you a sense, with links to many other articles.&lt;/p&gt;
+
+&lt;p&gt;At the time of writing interest rates in the UK are at 0.1%.
+I assumed this means it is a great time to buy a house, as mortgage’s could
+hardly be cheaper.
+The post &lt;a href=&quot;https://patrick.net/post/1282720/2015-07-11-ten-reasons-it-s-a-terrible-time-to-buy-an-expensive-house&quot;&gt;Ten Reasons It’s A Terrible Time To Buy An Expensive House&lt;/a&gt;
+made me realise that of course it’s not that simple!
+The author states that it’s better to buy with a high interest rate.
+The theory goes that a low interest rate causes house prices to rise.
+Prices will fall when interest rates rise, which we assume will happen 
+eventually given how ridiculously low they currently are.
+When house prices fall, you lose your equity but not your debt.
+Markets aren’t so simple, who knew :man_shrugging:&lt;/p&gt;
+
+&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
+
+&lt;p&gt;I am not a financial advisor.
+Please assess your own financial situation and carry out your own research / 
+seek professional financial advice as required.&lt;/p&gt;
+
+&lt;p&gt;I simply hope to provoke your thoughts :)&lt;/p&gt;</content><author><name></name></author><summary type="html">Buying a house is the worst decision I nearly made.</summary></entry></feed>
