@@ -3,6 +3,7 @@ title: Why You Shouldn't Buy a House
 description: Why buying a house doesn't make personal or financial sense
 toc: false
 layout: post
+image: images/moneyhouse.png
 comments: true
 categories: [personal-finance, investing, housing]
 ---
@@ -183,7 +184,7 @@ You need to:
 - Move house
 
 
-This process takes months and can be scuppered by:
+This process takes months and can be further stalled by:
 - Struggling to find a suitable house
 - Mortgage application rejection
 - Losing out on a bid (including getting
@@ -349,7 +350,7 @@ For lifestyle reasons:
   the financial downsides and lifestyle restrictions
   (you must know something no one else does or be incredibly lucky)
 - You want a pet, cannot find somewhere to rent that allows pets and are willing
-  to make huge sacrifices to have one (shout out to my girlfriend)
+  to make huge sacrifices to have one (my girlfriend)
 
 Buying a house does not make sense if:
 - You don't want to maintain a house
@@ -401,7 +402,7 @@ the same.
 
 
 At the time of writing interest rates in the UK are at 0.1%.
-I assumed this means it is a great time to buy a house, as mortgage's could
+I assumed this means it is a great time to buy a house, as mortgages could
 hardly be cheaper.
 
 [Ten Reasons It's A Terrible Time To Buy An Expensive House](https://patrick.net/post/1282720/2015-07-11-ten-reasons-it-s-a-terrible-time-to-buy-an-expensive-house)
