@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.robbiepalmer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.robbiepalmer.com/" rel="alternate" type="text/html" /><updated>2020-07-26T04:32:02-05:00</updated><id>http://www.robbiepalmer.com/feed.xml</id><title type="html">robbiepalmer</title><subtitle>Thoughts on personal finance, data science, bioinformatics, software engineering...</subtitle><entry><title type="html">Why You Shouldn’t Buy a House</title><link href="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house.html" rel="alternate" type="text/html" title="Why You Shouldn't Buy a House" /><published>2020-07-25T00:00:00-05:00</published><updated>2020-07-25T00:00:00-05:00</updated><id>http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house</id><content type="html" xml:base="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house.html">&lt;p&gt;Buying a house is the worst decision I nearly made.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.robbiepalmer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.robbiepalmer.com/" rel="alternate" type="text/html" /><updated>2020-07-26T16:28:42-05:00</updated><id>http://www.robbiepalmer.com/feed.xml</id><title type="html">robbiepalmer</title><subtitle>Thoughts on personal finance, data science, bioinformatics, software engineering...</subtitle><entry><title type="html">Why You Shouldn’t Buy a House</title><link href="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house.html" rel="alternate" type="text/html" title="Why You Shouldn't Buy a House" /><published>2020-07-25T00:00:00-05:00</published><updated>2020-07-25T00:00:00-05:00</updated><id>http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house</id><content type="html" xml:base="http://www.robbiepalmer.com/personal-finance/investing/housing/2020/07/25/why-you-should-not-buy-a-house.html">&lt;p&gt;Buying a house is the worst decision I nearly made.&lt;/p&gt;
 
 &lt;p&gt;I nearly did it because it is what people expect me to do.&lt;/p&gt;
 
@@ -87,7 +87,7 @@ that).&lt;/p&gt;
 
 &lt;p&gt;I knew nothing of bonds or REITs.&lt;/p&gt;
 
-&lt;p&gt;Stocks are what crazy gung-ho risk takers gambled on with their millions right?&lt;/p&gt;
+&lt;p&gt;Stocks are what crazy gung-ho risk takers gamble on with their millions right?&lt;/p&gt;
 
 &lt;p&gt;To me, these were intimidating ideas, not accessible to someone like me.&lt;/p&gt;
 
@@ -103,8 +103,25 @@ that).&lt;/p&gt;
 
 &lt;p&gt;They happen to have a side effect of building equity.&lt;/p&gt;
 
-&lt;p&gt;I didn’t know that &lt;strong&gt;we all&lt;/strong&gt;* own stocks, bonds and REITs 
-(parts of houses/buildings) through our pensions already.&lt;/p&gt;
+&lt;p&gt;I didn’t know that &lt;strong&gt;we all&lt;/strong&gt;* own stocks, bonds and REITs through our pensions
+already.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A stock is partial ownership of a company.
+You are entitled to part of their profits.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A bond is ownership of someone else’s debt.
+You are entitled to full repayment of this loan with interest.
+You can sell ownership of this loan before it is fully repaid.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A REIT is a Real Estate Investment Trust.
+Through this trust you have partial ownership of real estate.
+This is usually commerical property but may include residential property.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;When you are younger, your pension will mostly be a diversified set of stocks.
 These are the best asset for growing your wealth.&lt;/p&gt;
@@ -208,20 +225,18 @@ something a single neighbour does.&lt;/p&gt;
 
 &lt;p&gt;The prices for these will fluctuate based on fashion.&lt;/p&gt;
 
-&lt;p&gt;You can choose index funds that spread your investment across all countries,
-all sectors of the economy, all types of businesses and lenders.&lt;/p&gt;
+&lt;p&gt;Index funds automatically diversify your investment.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-global-all-cap-index-fund-gbp-acc/portfolio-data&quot;&gt;Global Stocks Index Fund&lt;/a&gt;
+invests in over 6700 companies spanning more than 42 countries.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://www.vanguardinvestor.co.uk/investments/vanguard-global-aggregate-bond-ucits-etf-gbp-hedged-distributing/portfolio-data?intcmpgn=fixedincomeglobal_globalaggregatebonducitsetf_fund_link&quot;&gt;Global Bonds Index Fund&lt;/a&gt;
+spreads over 4900 debtors which include governments, companies, agencies etc.&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://www.charles-stanley-direct.co.uk/ViewFund?Sedol=B5BFJG7&quot;&gt;Global REIT Index Fund&lt;/a&gt;
+invests in many properties in more than 10 countries.&lt;/p&gt;
 
 &lt;p&gt;You cannot be any more diversified than that.&lt;/p&gt;
-
-&lt;p&gt;If you truly believe real estate is for you.&lt;/p&gt;
-
-&lt;p&gt;If you don’t want to invest in public companies via stocks,
-or lend to companies and governments via bonds.&lt;/p&gt;
-
-&lt;p&gt;Then you can invest in a &lt;a href=&quot;https://investor.vanguard.com/mutual-funds/profile/overview/vgslx&quot;&gt;real estate index fund&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;You’ll still be invested in property but won’t have the huge risk of owning a 
-single house.&lt;/p&gt;
 
 &lt;p&gt;Just as it’s highly risky to invest only in a single company, it is highly risky
 to only invest in a single house.&lt;/p&gt;
@@ -267,20 +282,23 @@ maintenance, redecoration and general home improvements.&lt;/p&gt;
 story, and the return on investment for home ownership is lower than house
 prices suggest.&lt;/p&gt;
 
-&lt;p&gt;House prices don’t take into account additional costs required for maintenance.&lt;/p&gt;
+&lt;p&gt;House prices don’t take into account &lt;em&gt;additional costs&lt;/em&gt; required for
+maintenance.&lt;/p&gt;
 
-&lt;p&gt;Stock prices don’t take into account additional returns on investment through
-dividends.&lt;/p&gt;
+&lt;p&gt;Stock prices don’t take into account &lt;em&gt;additional returns&lt;/em&gt; on investment you 
+receive through dividends.&lt;/p&gt;
 
-&lt;p&gt;You receive dividends when the company you have invested in gives you your
-share of their profits.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dividends are your share of the company’s profits.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;but-what-about-recessions&quot;&gt;But what about recessions?&lt;/h3&gt;
 
 &lt;p&gt;The Great Depression started with the worst stock market crash.&lt;/p&gt;
 
 &lt;p&gt;If you were &lt;em&gt;extraordinarily&lt;/em&gt; unlucky and invested &lt;em&gt;only&lt;/em&gt; at the &lt;em&gt;peak&lt;/em&gt; before
-the crash, your investment would have &lt;a href=&quot;https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.&quot;&gt;recovered in 7.5 years&lt;/a&gt;.&lt;/p&gt;
+the crash, your investment would have
+&lt;a href=&quot;https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.&quot;&gt;recovered in 7.5 years&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If your luck was even slightly better, investing before and after the peak
 (especially during the trough), you would have your money back &lt;em&gt;much much&lt;/em&gt;
@@ -292,8 +310,8 @@ quicker.&lt;/p&gt;
 
 &lt;p&gt;The huge decrease in house prices caused the Great Recession of 2007/2008.&lt;/p&gt;
 
-&lt;p&gt;People over-valued houses just as they often over value companies, and the bubble
-burst when they realised the prices had got out of hand.&lt;/p&gt;
+&lt;p&gt;People over-valued houses just as they often over value companies,
+and the bubble burst when they realised the prices had got out of hand.&lt;/p&gt;
 
 &lt;p&gt;If you’re willing to keep your money invested in a house for a long time,
 then you should be willing to do the same with stocks to ride out these bumps.&lt;/p&gt;
@@ -355,7 +373,8 @@ which was so popular he used it as a basis for his book
 personal finance such as
 &lt;a href=&quot;https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/&quot;&gt;Mr Money Moustache&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The leading figures in this community have interesting ideas that challenge the norm.&lt;/p&gt;
+&lt;p&gt;The leading figures in this community have interesting ideas that challenge the
+norm.&lt;/p&gt;
 
 &lt;p&gt;If you believe buying a house will be a more effective investment, and you’re
 not put off by the difficulty, the risk and the lifestyle impacts,
@@ -368,9 +387,9 @@ The conclusion is as with everything, &lt;em&gt;it depends&lt;/em&gt;.
 Namely on: price to rent ratio, time invested, assumptions about inflation,
 expected costs, how fast rents increase etc. etc.&lt;/p&gt;
 
-&lt;p&gt;JL Collins also has a &lt;a href=&quot;https://jlcollinsnh.com/2012/02/23/rent-v-owning-your-home-opportunity-cost-and-running-some-numbers/&quot;&gt;run the numbers&lt;/a&gt;
-article to give you a sense, with links to many other articles that aim to do
-the same.&lt;/p&gt;
+&lt;p&gt;JL Collins also has a
+&lt;a href=&quot;https://jlcollinsnh.com/2012/02/23/rent-v-owning-your-home-opportunity-cost-and-running-some-numbers/&quot;&gt;run the numbers&lt;/a&gt;
+with links to many other articles that aim to do the same.&lt;/p&gt;
 
 &lt;p&gt;At the time of writing interest rates in the UK are at 0.1%.
 I assumed this means it is a great time to buy a house, as mortgages could
