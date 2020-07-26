@@ -109,7 +109,7 @@ that).
 
 I knew nothing of bonds or REITs.
 
-Stocks are what crazy gung-ho risk takers gambled on with their millions right?
+Stocks are what crazy gung-ho risk takers gamble on with their millions right?
 
 To me, these were intimidating ideas, not accessible to someone like me.
 
@@ -127,8 +127,19 @@ Houses are long term homes.
 They happen to have a side effect of building equity.
 
 
-I didn't know that **we all*** own stocks, bonds and REITs 
-(parts of houses/buildings) through our pensions already.
+I didn't know that **we all*** own stocks, bonds and REITs through our pensions
+already.
+
+> A stock is partial ownership of a company.
+You are entitled to part of their profits.
+
+> A bond is ownership of someone else's debt.
+You are entitled to full repayment of this loan with interest.
+You can sell ownership of this loan before it is fully repaid.
+
+> A REIT is a Real Estate Investment Trust.
+Through this trust you have partial ownership of real estate.
+This is usually commerical property but may include residential property.
 
 
 When you are younger, your pension will mostly be a diversified set of stocks.
@@ -232,21 +243,18 @@ When you buy a house you're also buying a single type of house
 The prices for these will fluctuate based on fashion.
 
 
-You can choose index funds that spread your investment across all countries,
-all sectors of the economy, all types of businesses and lenders.
+Index funds automatically diversify your investment.
+
+This [Global Stocks Index Fund](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-global-all-cap-index-fund-gbp-acc/portfolio-data)
+invests in over 6700 companies spanning more than 42 countries.
+
+This [Global Bonds Index Fund](https://www.vanguardinvestor.co.uk/investments/vanguard-global-aggregate-bond-ucits-etf-gbp-hedged-distributing/portfolio-data?intcmpgn=fixedincomeglobal_globalaggregatebonducitsetf_fund_link)
+spreads over 4900 debtors which include governments, companies, agencies etc.
+
+This [Global REIT Index Fund](https://www.charles-stanley-direct.co.uk/ViewFund?Sedol=B5BFJG7)
+invests in many properties in more than 10 countries.
 
 You cannot be any more diversified than that.
-
-
-If you truly believe real estate is for you.
-
-If you don't want to invest in public companies via stocks,
-or lend to companies and governments via bonds.
-
-Then you can invest in a [real estate index fund](https://investor.vanguard.com/mutual-funds/profile/overview/vgslx)!
-
-You'll still be invested in property but won't have the huge risk of owning a 
-single house.
 
 Just as it's highly risky to invest only in a single company, it is highly risky
 to only invest in a single house.
@@ -295,20 +303,21 @@ story, and the return on investment for home ownership is lower than house
 prices suggest.
 
 
-House prices don't take into account additional costs required for maintenance.
+House prices don't take into account *additional costs* required for
+maintenance.
 
-Stock prices don't take into account additional returns on investment through
-dividends.
+Stock prices don't take into account *additional returns* on investment you 
+receive through dividends.
 
-You receive dividends when the company you have invested in gives you your
-share of their profits.
+> Dividends are your share of the company's profits.
 
 ### But what about recessions?
 
 The Great Depression started with the worst stock market crash.
 
 If you were *extraordinarily* unlucky and invested *only* at the *peak* before
-the crash, your investment would have [recovered in 7.5 years](https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.).
+the crash, your investment would have
+[recovered in 7.5 years](https://www.nytimes.com/2009/04/26/your-money/stocks-and-bonds/26stra.html#:~:text=HISTORICAL%20stock%20charts%20seem%20to,times%20in%20the%20current%20downturn.).
 
 If your luck was even slightly better, investing before and after the peak
 (especially during the trough), you would have your money back *much much*
@@ -321,8 +330,8 @@ House prices are also affected by recessions.
 
 The huge decrease in house prices caused the Great Recession of 2007/2008.
 
-People over-valued houses just as they often over value companies, and the bubble
-burst when they realised the prices had got out of hand.
+People over-valued houses just as they often over value companies,
+and the bubble burst when they realised the prices had got out of hand.
 
 
 If you're willing to keep your money invested in a house for a long time,
@@ -382,7 +391,8 @@ Reading about this led me to discover other interesting figures in the world of
 personal finance such as
 [Mr Money Moustache](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/).
 
-The leading figures in this community have interesting ideas that challenge the norm.
+The leading figures in this community have interesting ideas that challenge the
+norm.
 
 
 If you believe buying a house will be a more effective investment, and you're
@@ -396,9 +406,9 @@ The conclusion is as with everything, *it depends*.
 Namely on: price to rent ratio, time invested, assumptions about inflation,
 expected costs, how fast rents increase etc. etc.
 
-JL Collins also has a [run the numbers](https://jlcollinsnh.com/2012/02/23/rent-v-owning-your-home-opportunity-cost-and-running-some-numbers/)
-article to give you a sense, with links to many other articles that aim to do
-the same.
+JL Collins also has a
+[run the numbers](https://jlcollinsnh.com/2012/02/23/rent-v-owning-your-home-opportunity-cost-and-running-some-numbers/)
+with links to many other articles that aim to do the same.
 
 
 At the time of writing interest rates in the UK are at 0.1%.
