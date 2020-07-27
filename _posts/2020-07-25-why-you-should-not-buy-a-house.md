@@ -256,8 +256,9 @@ invests in many properties in more than 10 countries.
 
 You cannot be any more diversified than that.
 
-Just as it's highly risky to invest only in a single company, it is highly risky
-to only invest in a single house.
+Everyone knows it's risky to buy stocks in a single company.
+
+Everyone ignores that it's risky to invest in a single house.
 
 ### Liquidity
 
@@ -360,6 +361,8 @@ For lifestyle reasons:
   (you must know something no one else does or be incredibly lucky)
 - You want a pet, cannot find somewhere to rent that allows pets and are willing
   to make huge sacrifices to have one (my girlfriend)
+- You have a history of terrible landlords and desperately need to take back
+  control
 
 Buying a house does not make sense if:
 - You don't want to maintain a house
