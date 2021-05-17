@@ -2,16 +2,20 @@
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Automated Upgrade](#automated-upgrade)
+- [Upgrading fastpages](#upgrading-fastpages)
+  - [Automated Upgrade](#automated-upgrade)
     - [Step 1: Open An Issue With The Upgrade Template.](#step-1-open-an-issue-with-the-upgrade-template)
     - [Step 2: Click `Submit new issue`](#step-2-click-submit-new-issue)
     - [Step 3: A Link to Pull Request Will Appear](#step-3-a-link-to-pull-request-will-appear)
-    - [Step 4: Review & Merge PR](#step-4-review-merge-pr)
-- [Manual Upgrade](#manual-upgrade)
+    - [Step 4: Review & Merge PR](#step-4-review--merge-pr)
+  - [Manual Upgrade](#manual-upgrade)
     - [Easy Way (Recommended)](#easy-way-recommended)
     - [Advanced](#advanced)
-- [Additional Resources](#additional-resources)
+  - [Additional Resources](#additional-resources)
 <!-- /TOC -->
+
+
+**For fastpages repos that are older than December 1st, 2020 the only way to upgrade is to create a brand-new fastpages repo and copy your blog post files into it.**  This is because of breaking changes that were made to GitHub Actions around that time.
 
 There are two ways to upgrade fastpages.  One is an automated way that assumes you have made no changes to the HTML of your site. Alternatively, you may [upgrade manually](#manual-upgrade) and determine which changes to accept or reject.  For most people we recommend upgrading fastpages automatically.
 
@@ -42,7 +46,7 @@ There are two ways to upgrade fastpages.  One is an automated way that assumes y
     It is possible that you might receive an error message instead of this command.  You can follow the instructions in the comment to troubleshoot the issue.  Common reasons for receiving an error are:
 
     - You are up to date, therefore no upgrade is possible.  You will see an error that there is "nothing to commit".
-    - You already have a PR from a prevoius upgrade open that you never merged.
+    - You already have a PR from a previous upgrade open that you never merged.
 
     Please [ask on the forums](https://forums.fast.ai/) if you have encounter another problem that is unclear.
 
