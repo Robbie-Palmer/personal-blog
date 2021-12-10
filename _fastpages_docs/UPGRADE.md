@@ -2,16 +2,15 @@
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Upgrading fastpages](#upgrading-fastpages)
-  - [Automated Upgrade](#automated-upgrade)
+- [Automated Upgrade](#automated-upgrade)
     - [Step 1: Open An Issue With The Upgrade Template.](#step-1-open-an-issue-with-the-upgrade-template)
     - [Step 2: Click `Submit new issue`](#step-2-click-submit-new-issue)
     - [Step 3: A Link to Pull Request Will Appear](#step-3-a-link-to-pull-request-will-appear)
-    - [Step 4: Review & Merge PR](#step-4-review--merge-pr)
-  - [Manual Upgrade](#manual-upgrade)
+    - [Step 4: Review & Merge PR](#step-4-review-merge-pr)
+- [Manual Upgrade](#manual-upgrade)
     - [Easy Way (Recommended)](#easy-way-recommended)
     - [Advanced](#advanced)
-  - [Additional Resources](#additional-resources)
+- [Additional Resources](#additional-resources)
 <!-- /TOC -->
 
 
