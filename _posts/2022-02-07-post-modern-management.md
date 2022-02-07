@@ -9,19 +9,16 @@ categories: [management, economics, philosophy]
 
 Market conditions are forcing us to make a break with managerial practices of the past.
 
-
 Labour's efficiency growth has been dominating productivity since the industrial revolution.
 Previously, investments in physical capital (such as roads) drove productivity.
 
 The industrial revolution marked the moment when there was humongous growth of output per worker, without the corresponding investment in physical capital.
-
 
 This has been driven by an era of industrial capitalism, characterised by the division of labour to enable specialisation and the routinisation of work tasks.
 
 As the non-creative parts of tasks become disentangled from the creative parts, they can increasingly be made more efficient by applying standardised processes, semi-automation and eventually total automation.
 
 These efficiency gains apply a selection pressure, driving further splitting of tasks into creative and non-creative parts.
-
 
 In the modern era following the industrial revolution the creativity in business was done at the strategic management level of existing businesses or by entrepreneurs for new businesses.
 
