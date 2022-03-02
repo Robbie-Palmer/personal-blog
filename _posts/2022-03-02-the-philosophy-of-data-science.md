@@ -1,7 +1,7 @@
 ---
 title: The Philosophy of Data Science
 description: How data science can drive scientific revolutions 
-toc: true
+toc: false
 layout: post
 comments: true
 categories: [philosophy, data-science]
@@ -43,6 +43,12 @@ This is important for effectiveness as well as ethics;
 understanding how to frame problems and how to determine when you have an effective solution.
 
 My goal in this essay is to help frame a discussion around how the various schools of thought in the philosophy of science, and their progression, translates to data science practices.
+
+TLDR:
+- [Summary of Perspectives](#summary-of-perspectives)
+- [Impact on Data Science Practice](#impact-on-data-science-practice)
+- [Post-positivist Domain Driven Data Science](#post-positivist-domain-driven-data-science)
+- [What Does This Mean For Me?](#what-does-this-mean-for-me)
 
 # The Evolution of Scientific Practice & Philosophy
 
