@@ -1,6 +1,6 @@
 ---
 title: The Philosophy of Data Science
-description: 
+description: How data science can drive scientific revolutions 
 toc: false
 layout: post
 comments: true
