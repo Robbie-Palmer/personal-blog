@@ -1,6 +1,6 @@
 ---
 title: Are All Experiments Actually Quasi-Experiments%3F
-description: How data science can drive scientific revolutions 
+description: Valid experiments depend on randomisation and other fundamentals. Are these even theoretically possible never mind practically?
 toc: false
 layout: post
 comments: true
