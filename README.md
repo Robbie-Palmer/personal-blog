@@ -14,7 +14,20 @@ _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 ## What To Do Next?
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+- Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from [Jupyter Notebooks](https://jupyter.org/); Notebook posts support features such as:
+    - Interactive visualizations made with [Altair](https://altair-viz.github.io/) remain interactive.
+    - Hide or show cell input and output.
+    - Collapsable code cells that are either open or closed by default.
+    - Define the Title, Summary and other metadata via a special markdown cells
+    - Ability to add links to [Colab](https://colab.research.google.com/), [Deepnote](https://deepnote.com/) and GitHub automatically.
+- Support for comments, supported natively through GitHub Issues.
+- Built-in search.
+- Support for customizing the styling of your site.
+- Embed Twitter cards and YouTube videos.
+- Categorization of blog posts by user-supplied tags for discoverability.
+- Create and edit [Markdown](https://guides.github.com/features/mastering-markdown/) posts.
+- Create posts, including formatting and images, directly from Microsoft Word documents.
+- Write posts on your local machine and [preview them with live reload](#running-the-blog-on-your-local-machine).
 
 - [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
 
