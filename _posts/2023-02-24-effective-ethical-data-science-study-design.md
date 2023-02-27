@@ -320,10 +320,10 @@ If it is not considered in your sampling, it cannot explicitly influence your po
 If it cannot influence your population distribution prediction,
 you cannot detect and account for errors and biases concerning this ontum.
 
-{% include info.html text="In Data Science contexts, "class", "feature", "category", or "term" are words often used to refer to the concept
-of what I am here calling an "ontum".
+{% include info.html text="In Data Science contexts, `class`, `feature`, `category`, or `term` are words often used to refer to the concept
+of what I am here calling an `ontum`.
 The alternatives are highly overloaded and applied in many divergent contexts.
-Ontum has the additional benefit of having the plural "onta" and the syntactically related term "ontology"
+Ontum has the additional benefit of having the plural `onta` and the syntactically related term `ontology`
 for describing the universal set for a given domain." %}
 
 For the example of gender, your ontology may consider 2-58 gender identities.
