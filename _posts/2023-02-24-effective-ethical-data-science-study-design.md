@@ -8,6 +8,8 @@ comments: true
 categories: [data-science, science, philosophy]
 ---
 
+![]({{ site.baseurl }}/images/population-sampling.png)
+
 Machine learning is the process of modelling our data,
 creating a smaller-scale representation shaped to highlight the targeted aspects of it.
 Just as a sculptor works their medium to create statues highlighting valour, beauty or anatomical correctness,
