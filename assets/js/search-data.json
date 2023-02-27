@@ -125,10 +125,7 @@
   
 
   
-  
-
-  
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "http://www.robbiepalmer.com/robots.txt",
