@@ -1,14 +1,14 @@
 ---
 title: Effective and Ethical Data Science Study Design
 description: Data science is full of bias. We must understand the fundamentals of study design, sampling methodologies and feature engineering to produce effective and ethical solutions.
-image: images/population-sampling.png
+image: images/population-sampling.jpg
 toc: false
 layout: post
 comments: true
 categories: [data-science, science, philosophy]
 ---
 
-![]({{ site.baseurl }}/images/population-sampling.png)
+![]({{ site.baseurl }}/images/population-sampling.jpg)
 
 Machine learning is the process of modelling our data,
 creating a smaller-scale representation shaped to highlight the targeted aspects of it.
