@@ -2,7 +2,7 @@
 title: Effective and Ethical Data Science Study Design
 description: Data science is full of bias. We must understand the fundamentals of study design, sampling methodologies and feature engineering to produce effective and ethical solutions.
 image: images/population-sampling.png
-toc: true
+toc: false
 layout: post
 comments: true
 categories: [data-science, science, philosophy]
