@@ -118,45 +118,7 @@ window.onload = wrap_img;
     </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <ul id="toc" class="section-nav">
-<li class="toc-entry toc-h1"><a href="#statistical-studies">Statistical Studies</a>
-<ul>
-<li class="toc-entry toc-h2"><a href="#sample-study">Sample Study</a></li>
-<li class="toc-entry toc-h2"><a href="#observational-study">Observational Study</a></li>
-<li class="toc-entry toc-h2"><a href="#experiment">Experiment</a></li>
-<li class="toc-entry toc-h2"><a href="#what-study-types-can-i-do-with-machine-learning">What Study Types Can I Do With Machine Learning?</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h1"><a href="#data-sampling">Data Sampling</a></li>
-<li class="toc-entry toc-h1"><a href="#data-sampling-methodology">Data Sampling Methodology</a>
-<ul>
-<li class="toc-entry toc-h2"><a href="#probability-sampling-techniques">Probability Sampling Techniques</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#simple-random-sampling">Simple Random Sampling</a></li>
-<li class="toc-entry toc-h3"><a href="#systematic-sampling">Systematic Sampling</a></li>
-<li class="toc-entry toc-h3"><a href="#stratified-sampling">Stratified Sampling</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#non-probability-sampling-techniques">Non-Probability Sampling Techniques</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#convenience-sampling">Convenience Sampling</a></li>
-<li class="toc-entry toc-h3"><a href="#voluntary-response-sampling">Voluntary Response Sampling</a></li>
-<li class="toc-entry toc-h3"><a href="#purposive-sampling">Purposive Sampling</a></li>
-<li class="toc-entry toc-h3"><a href="#quota-sampling">Quota Sampling</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#ontology-engineering">Ontology Engineering</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h1"><a href="#oversight-of-data-sampling-in-the-data-science-community">Oversight of Data Sampling in the Data Science Community</a>
-<ul>
-<li class="toc-entry toc-h2"><a href="#ontological-and-data-silos">Ontological and Data Silos</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h1"><a href="#fundamental-limitations-of-scientific-studies">Fundamental Limitations of Scientific Studies</a></li>
-<li class="toc-entry toc-h1"><a href="#fundamental-limitations-of-data-science">Fundamental Limitations of Data Science</a></li>
-<li class="toc-entry toc-h1"><a href="#effective-and-ethical-data-science-study-design">Effective and Ethical Data Science Study Design</a></li>
-</ul><p>Machine learning is the process of modelling our data,
+    <p>Machine learning is the process of modelling our data,
 creating a smaller-scale representation shaped to highlight the targeted aspects of it.
 Just as a sculptor works their medium to create statues highlighting valour, beauty or anatomical correctness,
 training data is the medium you shape into your model to represent your goals.
@@ -173,8 +135,7 @@ In practice, we do our best to match the “global distribution” of our target
 To use machine learning in a scientific setting,
 how can you effectively and ethically aim for this data to match the global distribution?</p>
 
-<h1 id="statistical-studies">
-<a class="anchor" href="#statistical-studies" aria-hidden="true"><span class="octicon octicon-link"></span></a>Statistical Studies</h1>
+<h1 id="statistical-studies">Statistical Studies</h1>
 
 <p>Statistical studies explore statistical questions.
 A statistical question is a question that requires us to collect data with variability to provide an answer.
@@ -194,8 +155,7 @@ In this case, a population subset is selected using <a href="#data-sampling-meth
 There are a variety of statistical study methodologies to choose from,
 whether using the whole target population or a sampled subset.</p>
 
-<h2 id="sample-study">
-<a class="anchor" href="#sample-study" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sample Study</h2>
+<h2 id="sample-study">Sample Study</h2>
 
 <p>In a sample study, you investigate the prevalence of a single feature within your target population.
 You can’t say anything more about this feature other than its prevalence
@@ -211,8 +171,7 @@ you extrapolate from your sample to estimate the prevalence in the total target 
 <p>Executing sample studies enables you to discover candidate features for
 an observational study for this specific target population.</p>
 
-<h2 id="observational-study">
-<a class="anchor" href="#observational-study" aria-hidden="true"><span class="octicon octicon-link"></span></a>Observational Study</h2>
+<h2 id="observational-study">Observational Study</h2>
 
 <p>In an observational study, you investigate how two features correlate within your target population.</p>
 
@@ -230,8 +189,7 @@ which will have some degree of error.</p>
 <p>Carrying out observational studies enables you to discover candidate features
 for an experimental study for this specific target population.</p>
 
-<h2 id="experiment">
-<a class="anchor" href="#experiment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiment</h2>
+<h2 id="experiment">Experiment</h2>
 
 <p>In an experiment, you investigate the causality between two features within your target population.
 Each element in your sample gets assigned to a control or treatment group, and you vary an “independent” feature
@@ -241,8 +199,7 @@ between groups and observe any changes in a target “dependent” feature.</p>
 <ul>
   <li>Experiments need to be careful to avoid placebo effects</li>
   <li>Experiments need to be careful to avoid information leakage. One technique to address this is
-<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/double-blind-study">double-blind studies</a>
-</li>
+<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/double-blind-study">double-blind studies</a></li>
   <li>Experiments must fairly assign elements to control and treatment groups, avoiding issues with confounding variables</li>
 </ul>
 
@@ -254,8 +211,7 @@ similar to <a href="#stratified-sampling">stratified sampling</a>.</p>
 <p>With appropriate sampling, assignment to groups and general experiment design,
 you can make a strong claim about the degree of causality between features within the target population.</p>
 
-<h2 id="what-study-types-can-i-do-with-machine-learning">
-<a class="anchor" href="#what-study-types-can-i-do-with-machine-learning" aria-hidden="true"><span class="octicon octicon-link"></span></a>What Study Types Can I Do With Machine Learning?</h2>
+<h2 id="what-study-types-can-i-do-with-machine-learning">What Study Types Can I Do With Machine Learning?</h2>
 
 <p>Machine Learning derives from the practice of observational study.
 Machine Learning models are trained to detect correlates and use these for prediction.
@@ -268,8 +224,7 @@ which shows there is no causal relationship.</p>
 The underlying assumption of applied machine learning is that the greater generalisation
 from some samples to other samples, the more likely the model is to operate on causal relationships.</p>
 
-<h1 id="data-sampling">
-<a class="anchor" href="#data-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Sampling</h1>
+<h1 id="data-sampling">Data Sampling</h1>
 
 <p>Many Data Science practitioners overlook that they apply inference long before they build an ML model.
 Data sampling is the process of applying statistical methods to select data samples from the domain.
@@ -282,8 +237,7 @@ Any errors in this upstream inference will propagate down to the ML model’s ab
 If done implicitly, you will be unable to assess the true effectiveness of your total solution
 or monitor any ethical implications of underperforming in specific demographics.</p>
 
-<h1 id="data-sampling-methodology">
-<a class="anchor" href="#data-sampling-methodology" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Sampling Methodology</h1>
+<h1 id="data-sampling-methodology">Data Sampling Methodology</h1>
 
 <p>The features and meta-features required to carry out a population distribution prediction are:</p>
 <ol>
@@ -341,8 +295,7 @@ determines its possible values:</p>
   <li>Ratio: Interval data with a natural (absolute) zero point, e.g. Time in seconds, has a ratio scale, but temperature in °C does not (since 0°C does not mean no heat)</li>
 </ul>
 
-<h2 id="probability-sampling-techniques">
-<a class="anchor" href="#probability-sampling-techniques" aria-hidden="true"><span class="octicon octicon-link"></span></a>Probability Sampling Techniques</h2>
+<h2 id="probability-sampling-techniques">Probability Sampling Techniques</h2>
 
 <p>All probabilistic sampling techniques require you to obtain a complete and up-to-date
 list of all members of your target population.
@@ -350,8 +303,7 @@ Probability sampling techniques are a necessary basis for any experimental desig
 Only a <a href="https://en.wikipedia.org/wiki/Quasi-experiment">quasi-experiment</a>
 is possible if a non-probabilistic sampling technique is used.</p>
 
-<h3 id="simple-random-sampling">
-<a class="anchor" href="#simple-random-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Simple Random Sampling</h3>
+<h3 id="simple-random-sampling">Simple Random Sampling</h3>
 
 <p>A random selection is chosen from your total target population list,
 <a href="https://www.allresearchjournal.com/archives/2017/vol3issue7/PartK/3-7-69-542.pdf">often by using a random number generator</a>.
@@ -360,8 +312,7 @@ each with its own generated dataset. But it does not make any guarantees for you
 Your individual sample may have sampling errors, causing it not to represent the demographics of the global population,
 e.g. you may randomly select more males than females, even if both are equally represented in the population.</p>
 
-<h3 id="systematic-sampling">
-<a class="anchor" href="#systematic-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Systematic Sampling</h3>
+<h3 id="systematic-sampling">Systematic Sampling</h3>
 
 <p>Systematic sampling selects members from the entire target population list at regular intervals across some axis.
 If this sampling axis is genuinely random, then this technique is no different from random sampling.
@@ -388,8 +339,7 @@ resulting in a sample that is skewed towards senior employees.</p>
 <a href="https://www.investopedia.com/ask/answers/071615/when-it-better-use-systematic-over-simple-random-sampling.asp">making the study easily manipulated</a>
 by consciously refining the interval to alter the study’s results.</p>
 
-<h3 id="stratified-sampling">
-<a class="anchor" href="#stratified-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stratified Sampling</h3>
+<h3 id="stratified-sampling">Stratified Sampling</h3>
 
 <p>Stratified sampling divides the total list of the target population into subgroups 
 representing specific features of the samples.
@@ -415,8 +365,7 @@ to make your full sample representative of the target population.
 Making assumptions about the subgroup distribution across the target population is a form of
 <a href="#quota-sampling">quota sampling</a>, which is non-probabilistic.</p>
 
-<h2 id="non-probability-sampling-techniques">
-<a class="anchor" href="#non-probability-sampling-techniques" aria-hidden="true"><span class="octicon octicon-link"></span></a>Non-Probability Sampling Techniques</h2>
+<h2 id="non-probability-sampling-techniques">Non-Probability Sampling Techniques</h2>
 
 <p>Non-probability sampling techniques are used when it is unfeasible
 to obtain a complete and up-to-date list of all members of your target population.
@@ -425,16 +374,14 @@ as the study results cannot claim causality without randomness in sample selecti
 Only a <a href="https://en.wikipedia.org/wiki/Quasi-experiment">quasi-experiment</a>
 is possible if a non-probabilistic sampling technique is used.</p>
 
-<h3 id="convenience-sampling">
-<a class="anchor" href="#convenience-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Convenience Sampling</h3>
+<h3 id="convenience-sampling">Convenience Sampling</h3>
 
 <p>A sample is taken from the target population based on the members that are most accessible.
 No other inclusion criteria are applied.
 Convenience sampling is an easy and inexpensive way to gather data,
 <a href="https://www.scribbr.com/methodology/sampling-methods/#:~:text=1.%20Convenience%20sampling">but no claims can be made about the sampled data distribution to determine if any analysis could yield generalisable results</a>.</p>
 
-<h3 id="voluntary-response-sampling">
-<a class="anchor" href="#voluntary-response-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Voluntary Response Sampling</h3>
+<h3 id="voluntary-response-sampling">Voluntary Response Sampling</h3>
 
 <p>The sample from the target population is the set of members who volunteer,
 which has the cost-benefit of removing the burden on the researcher to locate members themselves.
@@ -447,8 +394,7 @@ which could be <a href="https://www.allresearchjournal.com/archives/2017/vol3iss
 
 <p>Voluntary response sampling is the type of sampling that occurs when a researcher works with open-source datasets.</p>
 
-<h3 id="purposive-sampling">
-<a class="anchor" href="#purposive-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Purposive Sampling</h3>
+<h3 id="purposive-sampling">Purposive Sampling</h3>
 
 <p>The researcher chooses their sample based on criteria internal to their mind.
 <a href="https://www.allresearchjournal.com/archives/2017/vol3issue7/PartK/3-7-69-542.pdf">This technique is especially prone to researcher bias</a>.
@@ -468,8 +414,7 @@ is another purposive sampling technique,
 which is opposite in theory to maximum variation sampling.
 The theory is that the researcher will yield greater insight by focusing on similar samples.</p>
 
-<h3 id="quota-sampling">
-<a class="anchor" href="#quota-sampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Quota Sampling</h3>
+<h3 id="quota-sampling">Quota Sampling</h3>
 
 <p>Quota sampling is very similar to <a href="#stratified-sampling">stratified sampling</a>.
 It has two stages, first, defining subgroups, and second, sampling from them.</p>
@@ -491,8 +436,7 @@ but may need more money to scale their sample to a size that maintains the popul
 They may determine that it is more ethical and effective to include a member from this subgroup in their study,
 even though this subgroup will now be over-represented relative to the population.</p>
 
-<h2 id="ontology-engineering">
-<a class="anchor" href="#ontology-engineering" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ontology Engineering</h2>
+<h2 id="ontology-engineering">Ontology Engineering</h2>
 
 <p>When conducting <a href="#stratified-sampling">stratified</a> or <a href="#quota-sampling">quota sampling</a>,
 a researcher must define their strata.
@@ -506,7 +450,7 @@ If it cannot influence your population distribution prediction,
 you cannot detect and account for errors and biases concerning this ontum.</p>
 
 <div class="Toast">
-   <span class="Toast-icon"><svg class="octicon octicon-info" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path></svg></span>
+   <span class="Toast-icon"><svg class="octicon octicon-info" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path></svg></span>
    <span class="Toast-content">In Data Science contexts, `class`, `feature`, `category`, or `term` are words often used to refer to the concept
 of what I am here calling an `ontum`.
 The alternatives are highly overloaded and applied in many divergent contexts.
@@ -535,8 +479,7 @@ Some factor that exists outside of our monitored ontology is affecting the perfo
 Through inclusion or exclusion, you are deciding which “random” errors can be systematically present 
 and remain unaccounted for. Defining your ontology based on the status quo is not apolitical but conservative.</p>
 
-<h1 id="oversight-of-data-sampling-in-the-data-science-community">
-<a class="anchor" href="#oversight-of-data-sampling-in-the-data-science-community" aria-hidden="true"><span class="octicon octicon-link"></span></a>Oversight of Data Sampling in the Data Science Community</h1>
+<h1 id="oversight-of-data-sampling-in-the-data-science-community">Oversight of Data Sampling in the Data Science Community</h1>
 
 <p>Data Sampling is often overlooked due to a methodological bias in the Data Science community.
 Data Science is traditionally practised as experimenting with different modelling techniques and methodologies
@@ -570,8 +513,7 @@ there are a lot of
 <a href="https://www.khanacademy.org/math/statistics-probability/designing-studies#sampling-methods-stats">“stats 101” courses</a>
 covering how to take samples fairly.</p>
 
-<h2 id="ontological-and-data-silos">
-<a class="anchor" href="#ontological-and-data-silos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ontological and Data Silos</h2>
+<h2 id="ontological-and-data-silos">Ontological and Data Silos</h2>
 
 <p>Ethical oversights certainly extend beyond Data Science research and into applied Data Science.
 All organisations are prone to measurability bias, optimising towards what can be measured.
@@ -599,8 +541,7 @@ No metric-driven decision-making can enable these paradigm shifts due to their i
 There is an underlying culturally embedded art at play in our decision-making,
 which we must be aware of to make ethical decisions.</p>
 
-<h1 id="fundamental-limitations-of-scientific-studies">
-<a class="anchor" href="#fundamental-limitations-of-scientific-studies" aria-hidden="true"><span class="octicon octicon-link"></span></a>Fundamental Limitations of Scientific Studies</h1>
+<h1 id="fundamental-limitations-of-scientific-studies">Fundamental Limitations of Scientific Studies</h1>
 
 <p>Experiments aim to determine treatment effect by mimicking observing a factual and its corresponding counterfactual.
 An objective experiment is impossible as
@@ -655,8 +596,7 @@ However, several studies have shown that
 More research is required in the meta-analyses of RCTs and observational studies to understand why
 this is the case in practice when it is not in theory.</p>
 
-<h1 id="fundamental-limitations-of-data-science">
-<a class="anchor" href="#fundamental-limitations-of-data-science" aria-hidden="true"><span class="octicon octicon-link"></span></a>Fundamental Limitations of Data Science</h1>
+<h1 id="fundamental-limitations-of-data-science">Fundamental Limitations of Data Science</h1>
 
 <p>If a Data Scientist is interested in genuinely investigating causal relationships
 to make more “definitive” predictions and claims,
@@ -707,8 +647,7 @@ We cannot escape the biases of our theories.
 You will always introduce bias, which could cause over or underestimates
 for the whole population or subgroups within it.</p>
 
-<h1 id="effective-and-ethical-data-science-study-design">
-<a class="anchor" href="#effective-and-ethical-data-science-study-design" aria-hidden="true"><span class="octicon octicon-link"></span></a>Effective and Ethical Data Science Study Design</h1>
+<h1 id="effective-and-ethical-data-science-study-design">Effective and Ethical Data Science Study Design</h1>
 
 <p>To be effective and ethical in the application of data science, we must always be cognizant.
 The best way to explore our biases is to challenge our thinking.
