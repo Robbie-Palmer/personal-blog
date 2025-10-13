@@ -20,3 +20,6 @@ override.tf.json
 
 # TFLint files
 .tflint.hcl
+
+# Local environment variables
+.env
