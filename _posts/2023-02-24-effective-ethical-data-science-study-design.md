@@ -392,7 +392,7 @@ and we cannot measure the success of our sampling independently of further sampl
 Systematic errors from missing onta and missing data are ignored because they can't be measured,
 so sampling success is ignored.
 
-[Domain Driven Data Science](https://www.robbiepalmer.com/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#post-positivist-domain-driven-data-science)
+[Domain Driven Data Science](https://www.robbiepalmer.me/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#post-positivist-domain-driven-data-science)
 is a methodology to escape ontological silos
 and account for ontology-driven systematic errors.
 We can overcome missing-data-driven systematic errors
@@ -429,7 +429,7 @@ so [it is impossible to objectively assert this degree of external validity](htt
 This is the same flaw underlying any induction; past behaviour is not a perfect predictor of future outcomes.
 
 The philosophy of science has shown that the goal of
-[complete internal consistency is impossible](https://www.robbiepalmer.com/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#criticisms-of-logical-positivism)
+[complete internal consistency is impossible](https://www.robbiepalmer.me/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#criticisms-of-logical-positivism)
 and logically inconsistent, and external validity is also impossible to prove.
 
 The lack of external validity is at the core of the
@@ -440,7 +440,7 @@ The lack of external validity is at the core of the
 > [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a)
 
 An experiment requires
-[true randomisation, which is impossible to assert](https://www.robbiepalmer.com/philosophy/science/2022/03/28/quasi-experiments.html).
+[true randomisation, which is impossible to assert](https://www.robbiepalmer.me/philosophy/science/2022/03/28/quasi-experiments.html).
 Every design is made with non-functional constraints and within the researcher's worldview,
 which provides them with only the tractable choices available within their understanding.
 Every experiment is fundamentally a [quasi-experiment](https://en.wikipedia.org/wiki/Quasi-experiment).
@@ -502,7 +502,7 @@ The belief and hope that machine learning "lets the data speak for itself".
 However, this is false, and this belief can be ethically dangerous.
 
 The philosophy of science has shown the
-[theory-dependency of observation]((https://www.robbiepalmer.com/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#post-positivism)).
+[theory-dependency of observation]((https://www.robbiepalmer.me/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#post-positivism)).
 Machine learning cannot be theory agnostic.
 Our data is theory-laden, our sampling methodologies are theory-laden, and our modelling techniques are theory-laden.
 We cannot escape the biases of our theories.

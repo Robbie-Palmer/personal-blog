@@ -173,7 +173,7 @@ In his later work he asserts that observations only provide probabilities for ob
 and that these probabilities do not outline a definitive action.
 
 The final nails in the coffin were the work of Kuhn, Quine, Hanson, and other 
-[post-positivists](https://www.robbiepalmer.com/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#Post-Positivism). 
+[post-positivists](https://www.robbiepalmer.me/philosophy/data-science/2022/03/02/the-philosophy-of-data-science.html#Post-Positivism). 
 They undermined the division of observation and theory. 
 They outlined how all observations (and therefore all datasets) are inherently 
 [laden with theory](https://en.wikipedia.org/wiki/Theory-laden).
