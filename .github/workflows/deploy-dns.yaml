@@ -15,12 +15,14 @@ jobs:
     name: Deploy to Cloudflare
     runs-on: ubuntu-latest
     
-    env:
-      DOMAIN_NAME: "robbiepalmer.me"
-
     environment:
       name: cloudflare-production
-      url: https://${{ env.DOMAIN_NAME }}
+      url: 'https://${{ vars.DOMAIN_NAME }}'
+
+    env:
+      TF_VAR_domain_name: ${{ vars.DOMAIN_NAME }}
+      TF_API_TOKEN: ${{ secrets.TF_API_TOKEN }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
     defaults:
       run:
@@ -38,12 +40,6 @@ jobs:
 
       - name: Terraform Plan
         run: terraform plan -no-color
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          TF_VAR_domain_name: ${{ env.DOMAIN_NAME }}
 
       - name: Terraform Apply
         run: terraform apply -auto-approve -no-color
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          TF_VAR_domain_name: ${{ env.DOMAIN_NAME }}
