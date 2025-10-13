@@ -1,0 +1,43 @@
+name: Deploy DNS to Cloudflare
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'infra/cloudflare/**'
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Deploy to Cloudflare
+    runs-on: ubuntu-latest
+    environment:
+      name: cloudflare-production
+      url: https://robbiepalmer.com
+
+    defaults:
+      run:
+        working-directory: ./infra/cloudflare
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Terraform Init
+        run: terraform init
+
+      - name: Terraform Plan
+        run: terraform plan -no-color
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      - name: Terraform Apply
+        run: terraform apply -auto-approve -no-color
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
