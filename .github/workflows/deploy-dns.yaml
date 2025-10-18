@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'infra/cloudflare/**'
+      - '.github/workflows/deploy-dns.yaml'
 
 permissions:
   contents: read
