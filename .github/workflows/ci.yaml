@@ -45,7 +45,7 @@ jobs:
           sudo chmod -R 777 .
 
       - name: Jekyll build
-        uses: docker://fastai/fastpages-jekyll
+        uses: docker://jekyll/jekyll:latest
         with:
           args: bash -c "jekyll build -V --strict_front_matter --trace"
         env:
